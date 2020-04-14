@@ -1,0 +1,9 @@
+<Response>
+<Say voice="alice">
+Thanks for the call. Configure your number's voice U R L to change this message.
+</Say>
+<Pause length="1"/>
+<Say voice="alice">
+Hey now you are an all star.
+</Say>
+</Response>
